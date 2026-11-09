@@ -1,3 +1,9 @@
+﻿> 🌐 **Démo Interactive Déployée en Ligne :** [**https://collesyll0607.github.io/gestion-universitaire-jee/**](https://collesyll0607.github.io/gestion-universitaire-jee/)
+>
+> 👩‍💻 **Portfolio de l'Auteure (Collé Syll) :** [https://collesyll0607.github.io/](https://collesyll0607.github.io/)
+
+---
+
 # Application N-tier — Gestion Universitaire (Jakarta EE / Servlets / MySQL / Tomcat)
 
 **Auteure** : Collé Syll — Licence 3 Ingénierie Informatique (UASZ)  
@@ -12,3 +18,4 @@
 ```bash
 mvn clean test package
 ```
+
